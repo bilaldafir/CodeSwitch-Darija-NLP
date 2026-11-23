@@ -1,1 +1,3 @@
-
+Model,Accuracy,F1_Macro
+Baseline_LogReg,0.8,0.7996
+Baseline_LinearSVM,0.805,0.8047
